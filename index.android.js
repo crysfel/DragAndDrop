@@ -5,6 +5,6 @@
 'use strict';
 
 import React from 'react-native';
-import Viewport form './app/Viewport';
+import Viewport from './app/Viewport';
 
 React.AppRegistry.registerComponent('DragAndDrop', () => Viewport);
